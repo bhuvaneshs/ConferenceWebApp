@@ -1,0 +1,13 @@
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\SensipleConference.deps.json
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\SensipleConference.runtimeconfig.json
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\SensipleConference.runtimeconfig.dev.json
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\SensipleConference.dll
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\SensipleConference.pdb
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\Shared.dll
+D:\POC\Sensiple\SensipleConference\SensipleConference\bin\Debug\netcoreapp2.0\Shared.pdb
+D:\POC\Sensiple\SensipleConference\SensipleConference\obj\Debug\netcoreapp2.0\SensipleConference.csprojResolveAssemblyReference.cache
+D:\POC\Sensiple\SensipleConference\SensipleConference\obj\Debug\netcoreapp2.0\SensipleConference.csproj.CoreCompileInputs.cache
+D:\POC\Sensiple\SensipleConference\SensipleConference\obj\Debug\netcoreapp2.0\SensipleConference.AssemblyInfoInputs.cache
+D:\POC\Sensiple\SensipleConference\SensipleConference\obj\Debug\netcoreapp2.0\SensipleConference.AssemblyInfo.cs
+D:\POC\Sensiple\SensipleConference\SensipleConference\obj\Debug\netcoreapp2.0\SensipleConference.dll
+D:\POC\Sensiple\SensipleConference\SensipleConference\obj\Debug\netcoreapp2.0\SensipleConference.pdb
